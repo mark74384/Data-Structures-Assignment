@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: eg.edu.alexu.csd.datastructure.LinkedLists.cs18011305_1801
+ 1304.UIApplication
+
